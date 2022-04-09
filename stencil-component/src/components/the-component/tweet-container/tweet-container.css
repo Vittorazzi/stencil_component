@@ -1,0 +1,22 @@
+:host {
+  display: block;
+}
+
+h1 {
+  font-family:'Franklin Gothic Medium';
+}
+
+span {
+  font-family:'Franklin Gothic Medium';
+}
+
+.tweet-container {
+  margin: 15px 0px;
+  border-radius: 5px;
+  background-color: #929292;
+  padding: 3px 10px;
+}
+
+.tweet-container--last-tweet{
+  background-color: #82abc2;
+}
